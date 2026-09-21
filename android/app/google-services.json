@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461529794418",
+    "project_id": "collect-bbd8f",
+    "storage_bucket": "collect-bbd8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461529794418:android:94a157bb43b937be56bfeb",
+        "android_client_info": {
+          "package_name": "com.collect.collect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sFtjEaBGCzR_cIK3YTgj1Z7fruBxau4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
