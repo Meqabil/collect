@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d82667f3-e7a4-48c4-94de-26f40e01588c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ios-simulator.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ios-simulator.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
